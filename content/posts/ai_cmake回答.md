@@ -1,3 +1,9 @@
++++
+title = 'cmake'
+date = 2024-10-12
+draft = true
++++
+
 # cmake
 
 ## cmake基本语法

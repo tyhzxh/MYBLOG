@@ -1,3 +1,8 @@
++++
+title = 'leveldb'
+date = 2024-10-12
+draft = true
++++
 # leveldb
 
 阅读LevelDB源码是一项很好的学习机会，因为它的代码质量高、设计简洁而高效。为了帮助你更有效地理解和阅读LevelDB的源码，可以按照以下步骤进行：
